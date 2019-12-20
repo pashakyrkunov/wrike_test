@@ -1,0 +1,146 @@
+{
+  "uid" : "174c7799b1d133a8",
+  "name" : "Test twitter",
+  "fullName" : "MainTest.twitterTest",
+  "historyId" : "2a943f4f43bfd86a9bf9b954b7022290",
+  "time" : {
+    "start" : 1576803150180,
+    "stop" : 1576803182995,
+    "duration" : 32815
+  },
+  "description" : "Check that twitter button is displayed and twitter link is correct",
+  "descriptionHtml" : "<p>Check that twitter button is displayed and twitter link is correct</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Check that twitter button is displayed and twitter link is correct",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Press button 'Get started'",
+      "time" : {
+        "start" : 1576803181179,
+        "stop" : 1576803181532,
+        "duration" : 353
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Type email",
+      "time" : {
+        "start" : 1576803181581,
+        "stop" : 1576803181877,
+        "duration" : 296
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "email",
+        "value" : "xnjvdydsb+wpt@wriketask.qaa"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Press button 'Create account'",
+      "time" : {
+        "start" : 1576803181878,
+        "stop" : 1576803182058,
+        "duration" : 180
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Check existing of Twitter link",
+      "time" : {
+        "start" : 1576803182075,
+        "stop" : 1576803182178,
+        "duration" : 103
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Check correctness of Twitter link",
+      "time" : {
+        "start" : 1576803182178,
+        "stop" : 1576803182264,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "twitterTest"
+  }, {
+    "name" : "suite",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N28J36F"
+  }, {
+    "name" : "thread",
+    "value" : "8668@DESKTOP-N28J36F.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "174c7799b1d133a8.json",
+  "parameterValues" : [ ]
+}

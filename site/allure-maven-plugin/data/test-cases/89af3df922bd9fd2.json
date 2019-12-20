@@ -1,0 +1,260 @@
+{
+  "uid" : "89af3df922bd9fd2",
+  "name" : "Test complete survey with random answer",
+  "fullName" : "MainTest.completeSurveyTest",
+  "historyId" : "4fd4a1c8e6b2a5859b561c77fe4b8207",
+  "time" : {
+    "start" : 1576803183156,
+    "stop" : 1576803205675,
+    "duration" : 22519
+  },
+  "description" : "Complete survey with random answer and check that survey successfully shows up and hides",
+  "descriptionHtml" : "<p>Complete survey with random answer and check that survey successfully shows up and hides</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Complete survey with random answer and check that survey successfully shows up and hides",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Press button 'Get started'",
+      "time" : {
+        "start" : 1576803191694,
+        "stop" : 1576803191869,
+        "duration" : 175
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Type email",
+      "time" : {
+        "start" : 1576803191869,
+        "stop" : 1576803192195,
+        "duration" : 326
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "email",
+        "value" : "acg+wpt@wriketask.qaa"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Press button 'Create account'",
+      "time" : {
+        "start" : 1576803192195,
+        "stop" : 1576803192297,
+        "duration" : 102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Choose random answer for the 1st question",
+      "time" : {
+        "start" : 1576803192297,
+        "stop" : 1576803197143,
+        "duration" : 4846
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Choose answer number 1 for the 1st question",
+        "time" : {
+          "start" : 1576803192300,
+          "stop" : 1576803197143,
+          "duration" : 4843
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "ans",
+          "value" : "1"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Choose random answer for the 2nd question",
+      "time" : {
+        "start" : 1576803197143,
+        "stop" : 1576803197227,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Choose answer number 1 for the 2nd question",
+        "time" : {
+          "start" : 1576803197144,
+          "stop" : 1576803197227,
+          "duration" : 83
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "ans",
+          "value" : "1"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Choose random answer for the 3rd question",
+      "time" : {
+        "start" : 1576803197227,
+        "stop" : 1576803197441,
+        "duration" : 214
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Choose answer number 3 for the 3rd question",
+        "time" : {
+          "start" : 1576803197228,
+          "stop" : 1576803197441,
+          "duration" : 213
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "ans",
+          "value" : "3"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Press 'Submit' button",
+      "time" : {
+        "start" : 1576803197442,
+        "stop" : 1576803197527,
+        "duration" : 85
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Check 'Thanks for helping us out!' is displayed",
+      "time" : {
+        "start" : 1576803197527,
+        "stop" : 1576803199565,
+        "duration" : 2038
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Check 'Thanks for helping us out!' is not displayed",
+      "time" : {
+        "start" : 1576803199565,
+        "stop" : 1576803205011,
+        "duration" : 5446
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 12,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "MainTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "completeSurveyTest"
+  }, {
+    "name" : "suite",
+    "value" : "MainTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N28J36F"
+  }, {
+    "name" : "thread",
+    "value" : "8668@DESKTOP-N28J36F.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89af3df922bd9fd2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","MainTest.completeSurveyTest","22519","Complete survey with random answer and check that survey successfully shows up and hides"
+"passed","MainTest.twitterTest","32815","Check that twitter button is displayed and twitter link is correct"

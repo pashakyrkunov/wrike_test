@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-N28J36F",
+    "children" : [ {
+      "name" : "8668@DESKTOP-N28J36F.main(1)",
+      "children" : [ {
+        "name" : "Test complete survey with random answer",
+        "uid" : "89af3df922bd9fd2",
+        "parentUid" : "eb20f22d846cc7120274a7cbc963f592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576803183156,
+          "stop" : 1576803205675,
+          "duration" : 22519
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test twitter",
+        "uid" : "174c7799b1d133a8",
+        "parentUid" : "eb20f22d846cc7120274a7cbc963f592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576803150180,
+          "stop" : 1576803182995,
+          "duration" : 32815
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb20f22d846cc7120274a7cbc963f592"
+    } ],
+    "uid" : "50a7b1cd6a29f812dff00356f8b15b35"
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test twitter",
+    "uid" : "174c7799b1d133a8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1576803150180,
+      "stop" : 1576803182995,
+      "duration" : 32815
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test complete survey with random answer",
+    "uid" : "89af3df922bd9fd2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1576803183156,
+      "stop" : 1576803205675,
+      "duration" : 22519
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

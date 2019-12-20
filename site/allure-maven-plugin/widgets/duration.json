@@ -1,0 +1,21 @@
+[ {
+  "uid" : "89af3df922bd9fd2",
+  "name" : "Test complete survey with random answer",
+  "time" : {
+    "start" : 1576803183156,
+    "stop" : 1576803205675,
+    "duration" : 22519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "174c7799b1d133a8",
+  "name" : "Test twitter",
+  "time" : {
+    "start" : 1576803150180,
+    "stop" : 1576803182995,
+    "duration" : 32815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
